@@ -1,0 +1,5 @@
+# disallow everything, we don't want to be crawled
+User-agent: *
+Disallow: /
+
+# end
